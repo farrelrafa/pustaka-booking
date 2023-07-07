@@ -87,8 +87,8 @@ CREATE TABLE `buku` (
 --
 
 INSERT INTO `buku` (`id`, `judul_buku`, `id_kategori`, `pengarang`, `penerbit`, `tahun_terbit`, `isbn`, `stok`, `dipinjam`, `dibooking`, `image`, `harga_buku`) VALUES
-(1, 'CARA MENJADI GANTENG', 1, 'Buku Motivasi', 'Jakarta', 2023, 'TEST AJA', 19, 0, 1, 'gg.jpg', 100000),
-(2, 'Desna Andri test', 1, 'Desna Andri', 'Jakarta', 2023, 'Saya adalah Manusia biasa yang penuh dengan dosa', 19, 0, 1, 'ggg.jpg', 200000);
+(1, 'CARA MENJADI GANTENG', 1, 'Buku Motivasi', 'Jakarta', 2023, 'TEST AJA', 19, 0, 1, 'img1555522493.jpg', 100000),
+(2, 'Farrel Rafa', 1, 'Farrel Rafa', 'Jakarta', 2023, 'Saya adalah Manusia biasa yang penuh dengan dosa', 19, 0, 1, 'img1557402397.jpg', 200000);
 
 -- --------------------------------------------------------
 

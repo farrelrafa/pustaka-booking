@@ -3,10 +3,10 @@
 
 
 <p align='center'>Ini adalah aplikasi web yang dibuat berdasarkan modul materi Web Programming II Universitas Bina Sarana Informatika, dengan menggunakan framework Codeigniter 3.</p>
-
+<p align='center'>Farrel Rafa Abhinaya</p>
 <p align='center'>Projek ini dibuat untuk memenuhi tugas Web Programming II</p>
 
 <br>
 <br>
 <h2 align='center'>Terima Kasih</h2>
-<h2 align='center'>Desna Andri</h2>
+
